@@ -1,0 +1,394 @@
+var getUrlParameter = function getUrlParameter(sParam) {
+    var sPageURL = window.location.search.substring(1),
+        sURLVariables = sPageURL.split('&'),
+        sParameterName,
+        i;
+
+    for (i = 0; i < sURLVariables.length; i++) {
+        sParameterName = sURLVariables[i].split('=');
+
+        if (sParameterName[0] === sParam) {
+            return sParameterName[1] === undefined ? true : decodeURIComponent(sParameterName[1]);
+        }
+    }
+    return false;
+};
+
+   
+    var selects = document.querySelectorAll("[name='status_lead']");
+
+    selects.forEach(select => {
+        select.onchange = () => {  //alert(select.getAttribute('data-id')); //alert(select.value);
+            $.get("https://san-dez.ru/my_script/all_leads_save/insert.php",{ id: select.getAttribute('data-id'), status_lead: select.value }, onAjaxSuccess );
+            function onAjaxSuccess(data){ location.reload(); }
+        };
+    });
+    
+    var earnings = document.querySelectorAll("[name='price']");
+
+    earnings.forEach(earning => {
+        earning.onchange = () => {  
+            $.get("https://san-dez.ru/my_script/all_leads_save/insert.php",{ id: earning.getAttribute('data-id'), price: earning.value }, onAjaxSuccess );
+            function onAjaxSuccess(data){ location.reload(); }
+        };
+    });
+    
+    var coments = document.querySelectorAll("#coment");
+
+    coments.forEach(coment => {
+        coment.onkeyup = () => {  
+            $.get("https://san-dez.ru/my_script/all_leads_save/insert.php",{ id: coment.getAttribute('data-id'), coment: coment.innerHTML }, onAjaxSuccess );
+            function onAjaxSuccess(data){  }
+        };
+    });
+    
+    
+    
+    $('.date_but').on('click', function(){
+        var date_on = $('.date_on').val();
+        var date_off = $('.date_off').val();
+        if(date_on<date_off || date_on==date_off){
+            window.location.replace('https://san-dez.ru'+window.location.pathname+'?date_on='+date_on+'&date_off='+date_off);
+        }else{alert('Не верная дата');}
+    });
+    
+    $('.source').on('click', function(){
+        $('.filter_source,.close').fadeIn();
+    });
+    $('.site').on('click', function(){
+        $('.filter_site,.close').fadeIn();
+    });
+    $('.utm_source').on('click', function(){
+        $('.filter_utm_source,.close').fadeIn();
+    });
+    $('.utm_medium').on('click', function(){
+        $('.filter_utm_medium,.close').fadeIn();
+    });
+    $('.utm_campaign').on('click', function(){
+        $('.filter_utm_campaign,.close').fadeIn();
+    });
+    $('.utm_content').on('click', function(){
+        $('.filter_utm_content,.close').fadeIn();
+    });
+    $('.utm_term').on('click', function(){
+        $('.filter_utm_term,.close').fadeIn();
+    });
+    $('.close').on('click', function(){
+        $('.filter_source,.filter_site,.filter_utm_source,.filter_utm_medium,.filter_utm_campaign,.filter_utm_content,.filter_utm_term,.close').fadeOut();
+    });
+    
+
+
+    function filters_on(filter_name,filter_val){console.log(filter_val);
+        var date_on = getUrlParameter('date_on');
+        var date_off = getUrlParameter('date_off');
+        var povtor_lead = getUrlParameter('povtor_lead');
+        if(povtor_lead !=''){var povtor_lead = '&povtor_lead='+povtor_lead;} else {var povtor_lead = '';}
+        if(date_on !='' && date_off !=''){var date_filter = 'date_on='+date_on+'&date_off='+date_off;} else {var date_filter = '';}
+        if(filter_val != ''){
+            window.location.replace('https://san-dez.ru'+window.location.pathname+'?'+date_filter+povtor_lead+'&'+filter_name+'='+filter_val);
+        }else{
+            window.location.replace('https://san-dez.ru'+window.location.pathname+'?'+date_filter+povtor_lead);
+        }
+        
+    }
+    
+    $('.filter_source_but').on('click', function(){
+        var mvar = "";
+        $("[name='source']:checked").each(function() {
+            if(mvar == ''){ mvar += '"'+$(this).val()+'"'; }else{ mvar += ',"'+$(this).val()+'"'; }
+        });
+        filters_on('fiter_source',mvar);
+    });
+    
+    $('.filter_utm_source_but').on('click', function(){
+        var mvar = "";
+        $("[name='utm_source']:checked").each(function() {
+            if(mvar == ''){ mvar += '"'+$(this).val()+'"'; }else{ mvar += ',"'+$(this).val()+'"'; }
+        });
+        filters_on('fiter_utm_source',mvar);
+    });
+    
+    //
+    
+    
+    
+    
+    
+    $('.table_open, .table_open2, .table_open3').on('click', function(d){const id = this.id;
+        //Находим все элементы с id "line"
+        let lines = document.querySelectorAll('.'+id);
+        
+        //Обходим каждый найденный элемент 
+        for  (let line of lines) {
+            line.classList.toggle('hidd');
+        }
+        
+    });
+    
+    
+    
+    $('.insert_cost').on('click', function(){ 
+        $('.insert_cost_form').fadeIn();
+    });
+    
+    
+    
+    $('.insert_cost_form button').on('click', function(){
+        $.post('https://san-dez.ru/my_script/all_leads_save/insert.php', {cost: $('.insert_cost_form textarea').val()}, function(data){
+            $('.insert_cost_form textarea').val(data);
+            setTimeout(() => location.reload(), 5000);
+        });
+    });
+    
+    
+    $('[name="table_vid"]').on('change', function(event){
+        //console.log(event.target.value);
+        window.location.href = window.location.href+'&table_vid='+event.target.value;
+    });
+    
+    
+    
+    $('.insert_lead_roistat').on('click', function(){
+        alert($(this).attr('data-id'));
+        $.post('https://san-dez.ru/my_script/all_leads_save/insert.php', {insert_lead_roistat: $(this).attr('data-id')}, function(data){
+            setTimeout(() => location.reload(), 2000);
+        });
+    });
+    
+    
+    
+    /******* WZ *******/
+    $('.close_block_mes_wz').on('click', function(){$('.block_mes_wz').fadeOut(); $('.but_green').attr('class','but_wz_sent');});
+    
+    function showmessage(dialogId){
+        $.get('https://san-dez.ru/my_script/wappi/api.php', {type_mes: 'get_mes', phone: dialogId}, function(data){ 
+            var dat = data.split(":::");
+            //$('.wz_phone').text(dat[2]);
+            $('.wz_name').text(dat[0]);
+            $('.mes_wz').html(dat[3]);
+        });
+    }
+    
+    
+    
+    $('.but_mes_shablon').on('click', function(){$('.shablon_mes_wz').fadeIn();});
+    
+    $('.shablon_mes_wz p').on('click', function(){
+        $('.mes_wz_sent textarea').val($(this).html());
+        $('.shablon_mes_wz').fadeOut();
+    });
+    
+    
+    $('.but_wz_sent').on('click', function(){
+        $('.but_green').attr('class','but_wz_sent');
+        $(this).attr('class',$(this).attr('class')+' but_green');
+        //alert($(this).attr('data-phone'));
+        $('.block_mes_wz').fadeIn();
+        $('.mes_wz').html('<img src="https://san-dez.ru/my_script/Teletype/load_icon.gif">');
+        $('.wz_dialogId').val($(this).attr('id'));
+        $('.block_mes_wz .id_crm').text($(this).attr('data-id_crm'));
+        $('.block_mes_wz .wz_phone').text($(this).attr('data-phone'));
+        showmessage($(this).attr('data-phone'));
+        
+    });
+    
+    
+    $('.but_wz_new_dialog').on('click', function(){
+        $('.but_green').attr('class','but_wz_sent');
+        $(this).attr('class','but_wz_sent but_green'); 
+        $.get('https://san-dez.ru/my_script/Teletype/api.php', {type: 'new_dialog', clientPhone: $(this).attr('data-phone')}, function(data){
+            //alert(data);
+            if(data != '' && data.indexOf('Ошибка') == -1){
+                $('.block_mes_wz').fadeIn();
+                $('.mes_wz').html('<img src="https://san-dez.ru/my_script/Teletype/load_icon.gif">');
+                $('.wz_dialogId').val(data);
+                $('.block_mes_wz .id_crm').text($(this).attr('data-id_crm'));
+                $(this).attr('id',data)
+                
+                showmessage(data);
+            }
+            if(data.indexOf('Ошибка') != -1){alert(data);}
+        });
+    });
+    
+    
+    $('body').on('click', '.new_mes_noti', function(){
+        $(this).fadeOut();
+        $('.block_mes_wz').fadeIn();
+        $('.mes_wz').html('<img src="https://san-dez.ru/my_script/Teletype/load_icon.gif">');
+        $('.wz_dialogId').val($(this).attr('data-id_dialog'));
+        $('.block_mes_wz .id_crm').text($(this).attr('data-id_crm'));
+        $('.block_mes_wz .wz_phone').text($(this).attr('data-phone'));
+        showmessage($(this).attr('data-id_dialog'));
+    });
+    
+    
+    $('.but_mes_sent').on('click', function(){
+        var type_mes = $(this).attr('data-type_mes');
+        if($(this).attr('data-id_mes_reply')){var message_id = $(this).attr('data-id_mes_reply');}else{var message_id = '';}
+        $(this).removeAttr('data-id_mes_reply');
+        $(this).attr('data-type_mes','text');
+        $('.reply_mes_text').fadeOut();
+        
+        $.get('https://san-dez.ru/my_script/wappi/api.php', {
+            phone: $('.wz_phone').html(), 
+            type_mes: type_mes, 
+            mes: $('.mes_wz_sent textarea').val(), 
+            id_men: $('.wz_id_men').val(), 
+            name_men: $('.wz_name_men').val(), 
+            id_mes: message_id
+            
+        }, function(data){
+            //alert(data);
+            $('.mes_wz_sent textarea').val('');
+            setTimeout(showmessage($('.wz_phone').html()), 2000);
+            //setTimeout(showmessage($('.wz_dialogId').val()), 4000);
+        });
+    });
+    
+    
+    $('.view_mes').on('click', function(){ 
+        $.get('https://san-dez.ru/my_script/wappi/api.php', {type_mes: 'read', phone: $('.wz_phone').html()}, function(data){
+            setTimeout(() => location.reload(), 2000);
+        });
+    });
+    
+    
+    $('.search_phone').on('click', function(){
+        if(window.location.search ==''){var ghj = '?';}else{var ghj = '&';}
+        window.location.replace(window.location.href+ghj+'phone='+$(this).attr('data-phone'));
+    });
+    
+    
+    $('.close_search').on('click', function(){
+        var url = window.location.href;
+        var url = url.replace("&phone="+$('[name="search"]').val(), "");
+        window.location.replace(url);
+    });
+    
+    
+    $('.search_but').on('click', function(){
+        var url = window.location.href;
+        if(window.location.search ==''){var ghj = '?';}else{var ghj = '&';}
+        var url = url.replace("&phone="+$('[name="search"]').val(), "");
+        window.location.replace(window.location.href+ghj+'phone='+$('[name="search"]').val());
+    });
+    
+    
+    if(window.location.pathname=='/my_script/all_leads_save/select.php'){
+        function search_new_mes() {
+            $.get('https://san-dez.ru/my_script/Teletype/api.php', {type: 'all_new_mes'}, function(data){ 
+                $('.blok_notifications').html(data);
+            });
+        }
+        
+        setInterval(search_new_mes, 10000);
+    }
+    
+    
+    
+    $('body').on('click','.wz_mes_images', function(){ 
+        $('body').append('<div class="bg_wiev_foto"><img src="'+$(this).attr('src')+'" class="wiev_foto"></div>');
+    });
+    
+    $('body').on('click','.bg_wiev_foto', function(){
+        $('.bg_wiev_foto').remove();
+    });
+    
+    
+
+    $('body').on('click','.menu_mes', function(){
+        $(this).next('.menu_mes_spisok').fadeIn();
+    });
+    
+    
+    $('body').on('click','.menu_mes_spisok p', function(){
+        var comanda = $(this).html();
+        var id_mes = $(this).parent('div').parent('div').attr('id');
+        if(comanda == 'Ответить'){
+            var mes_copy = $(this).parent('div').parent('div').children('.mes_chat').html();
+            $('.but_mes_sent').attr('data-id_mes_reply',id_mes);
+            $('.but_mes_sent').attr('data-type_mes','reply');
+            $('.reply_mes_text').css('visibility', 'visible');
+            $('.reply_mes_text').fadeIn();
+            if(mes_copy.length>30){
+                
+                mes_copy = mes_copy.substring(0, 30);
+                var lastIndex = mes_copy.lastIndexOf(" ");       // позиция последнего пробела
+                mes_copy = '"'+mes_copy.substring(0, lastIndex) + '..."'; // обрезаем до последнего слова
+                $('.reply_mes_text span').html(mes_copy);
+   
+            }else{$('.reply_mes_text span').html('"'+mes_copy+'"');}
+            
+        }
+        if(comanda == 'Редактировать'){
+            var mes_copy = $(this).parent('div').parent('div').children('.mes_chat').html();
+            $('.but_mes_sent').attr('data-id_mes_reply',id_mes);
+            $('.but_mes_sent').attr('data-type_mes','edit');
+            $('.mes_wz_sent textarea').val(mes_copy);
+        }
+        if(comanda == 'Удалить'){
+            var isAdmin = confirm("Вы уверены?");
+            if( isAdmin == true){
+                $.get('https://san-dez.ru/my_script/wappi/api.php', {
+                    phone: $('.wz_phone').html(), 
+                    type_mes: 'delete', 
+                    mes: '', 
+                    id_men: $('.wz_id_men').val(), 
+                    name_men: $('.wz_name_men').val(), 
+                    id_mes: id_mes
+                    
+                }, function(data){
+                    //alert(data);
+                    $('.mes_wz_sent textarea').val('');
+                    setTimeout(showmessage($('.wz_phone').html()), 2000);
+                    
+                });
+            }
+
+            
+        }
+    });
+    
+    
+    
+    $('body').on('click','.reply_mes_text img', function(){
+        $('.but_mes_sent').removeAttr('data-id_mes_reply');
+        $('.but_mes_sent').attr('data-type_mes','text');
+        $('.reply_mes_text').fadeOut();
+    });
+
+    
+    
+    // #2 вариант (события всплывают)   
+    $('body').on('mouseenter','.mes-client, .mes-manager', function(){
+         // навели курсор на объект 
+         $(this).children('.menu_mes').fadeIn();
+    })
+    $('body').on('mouseleave','.mes-client, .mes-manager', function(){
+        // отвели курсор с объекта
+        $(this).children('.menu_mes, .menu_mes_spisok').fadeOut();
+    });
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    

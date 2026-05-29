@@ -1,0 +1,2087 @@
+
+------------------------
+2025.05.27 10:46:02
+incoming_raw
+
+------------------------
+
+------------------------
+2025.05.27 10:46:02
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 13:17:35
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 484100E99343736B8834659B9F642ADD
+                    [profile_id] => ee64083d-37b7
+                    [wh_type] => incoming_message
+                    [timestamp] => 2025-05-27T13:17:35+03:00
+                    [time] => 1748341055
+                    [body] => Тест
+                    [type] => chat
+                    [from] => 79521716699@c.us
+                    [to] => 79181418783@c.us
+                    [senderName] => Алексей Коннов
+                    [senderLastName] => 
+                    [chatId] => 79521716699@c.us
+                    [caption] => 
+                    [from_where] => phone
+                    [contact_name] => Алексей Коннов
+                    [contact_phone] => 
+                    [contact_username] => 
+                    [is_forwarded] => 
+                    [isReply] => 
+                    [is_edited] => 
+                    [stanza_id] => 
+                    [is_me] => 
+                    [chat_type] => dialog
+                    [isGif] => 
+                    [thumbnail] => https://fs.wappi.pro/fs/downloadFile/ee64083d-37b7/avatars/tumb_79521716699.jpg
+                    [picture] => 
+                    [wappi_bot_id] => 
+                    [is_deleted] => 
+                    [is_bot] => 
+                )
+
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 13:17:35
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 14:36:24
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB043300ACA81B1381603
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-27T14:36:24+03:00
+            [time] => 1748345784
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => pending
+            [task_id] => 615474cd-8adc-4bf2-8812-1543272342bb
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 14:36:24
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 14:36:26
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB043300ACA81B1381603
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-27T14:36:26+03:00
+            [time] => 1748345786
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => delivered
+            [task_id] => 615474cd-8adc-4bf2-8812-1543272342bb
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 14:36:26
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 14:36:44
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB043300ACA81B1381603
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-27T14:36:44+03:00
+            [time] => 1748345804
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => read
+            [task_id] => 615474cd-8adc-4bf2-8812-1543272342bb
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 14:36:44
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:16:56
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB00D0A5FC3162149A538
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-27T17:16:56+03:00
+            [time] => 1748355416
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => pending
+            [task_id] => 8678dfe7-9226-4979-abc6-ee0e9ba5b8f4
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:16:56
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:16:57
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB00D0A5FC3162149A538
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-27T17:16:56+03:00
+            [time] => 1748355416
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => delivered
+            [task_id] => 8678dfe7-9226-4979-abc6-ee0e9ba5b8f4
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:16:57
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:25:56
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB00D0A5FC3162149A538
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-27T17:25:56+03:00
+            [time] => 1748355956
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => read
+            [task_id] => 8678dfe7-9226-4979-abc6-ee0e9ba5b8f4
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:26:00
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:29:10
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB0C2B8514B5E14CB9C8A
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-27T17:29:08+03:00
+            [time] => 1748356148
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => pending
+            [task_id] => 120f1aa9-0c1a-42d9-a44a-88d14f56c776
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:29:10
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:29:10
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB0C2B8514B5E14CB9C8A
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-27T17:29:09+03:00
+            [time] => 1748356149
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => delivered
+            [task_id] => 120f1aa9-0c1a-42d9-a44a-88d14f56c776
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:29:10
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:29:17
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB0C2B8514B5E14CB9C8A
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-27T17:29:17+03:00
+            [time] => 1748356157
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => read
+            [task_id] => 120f1aa9-0c1a-42d9-a44a-88d14f56c776
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:29:17
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:40:58
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB09095057EA0BFE10522
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-27T17:40:57+03:00
+            [time] => 1748356857
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => pending
+            [task_id] => 90e157de-38c1-4306-bb89-8ed1e9ca213a
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:40:58
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:40:59
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB09095057EA0BFE10522
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-27T17:40:59+03:00
+            [time] => 1748356859
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => delivered
+            [task_id] => 90e157de-38c1-4306-bb89-8ed1e9ca213a
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:40:59
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:41:03
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB09095057EA0BFE10522
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-27T17:41:03+03:00
+            [time] => 1748356863
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => read
+            [task_id] => 90e157de-38c1-4306-bb89-8ed1e9ca213a
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:41:03
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:43:06
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB0BA514051D092F30971
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-27T17:43:06+03:00
+            [time] => 1748356986
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => pending
+            [task_id] => 6393aa8d-bd89-44b9-a3fe-759e6c4619f7
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:43:06
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:43:07
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB0BA514051D092F30971
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-27T17:43:07+03:00
+            [time] => 1748356987
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => delivered
+            [task_id] => 6393aa8d-bd89-44b9-a3fe-759e6c4619f7
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:43:07
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:43:46
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB06F60276B1C7748C1CE
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-27T17:43:46+03:00
+            [time] => 1748357026
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => pending
+            [task_id] => 101387f6-3f01-49e0-bf66-2eef7c4b6720
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:43:46
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:43:47
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB06F60276B1C7748C1CE
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-27T17:43:47+03:00
+            [time] => 1748357027
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => delivered
+            [task_id] => 101387f6-3f01-49e0-bf66-2eef7c4b6720
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:43:47
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:45:28
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB0C94CA39D6CF50C8A47
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-27T17:45:27+03:00
+            [time] => 1748357127
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => pending
+            [task_id] => b3370e56-2640-48db-b6fa-ebbe0a8936fb
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:45:28
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:45:32
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB0C94CA39D6CF50C8A47
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-27T17:45:28+03:00
+            [time] => 1748357128
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => delivered
+            [task_id] => b3370e56-2640-48db-b6fa-ebbe0a8936fb
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:45:32
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:45:33
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB0BA514051D092F30971
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-27T17:45:33+03:00
+            [time] => 1748357133
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => read
+            [task_id] => 6393aa8d-bd89-44b9-a3fe-759e6c4619f7
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:45:33
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:45:33
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB0C94CA39D6CF50C8A47
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-27T17:45:33+03:00
+            [time] => 1748357133
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => read
+            [task_id] => b3370e56-2640-48db-b6fa-ebbe0a8936fb
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:45:33
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:45:33
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB06F60276B1C7748C1CE
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-27T17:45:33+03:00
+            [time] => 1748357133
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => read
+            [task_id] => 101387f6-3f01-49e0-bf66-2eef7c4b6720
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 17:45:33
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 18:01:55
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB0595BD087D199F19ECB
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-27T18:01:55+03:00
+            [time] => 1748358115
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => pending
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 18:01:55
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 18:02:28
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB0B8406B541B327880AE
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-27T18:02:28+03:00
+            [time] => 1748358148
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => pending
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 18:02:28
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 18:03:02
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB0EFCF395C2589CD06E0
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-27T18:03:02+03:00
+            [time] => 1748358182
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => pending
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 18:03:02
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 18:05:06
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 097F2C2CE3ECB9B7C7C9A42D92676E90
+                    [profile_id] => ee64083d-37b7
+                    [wh_type] => incoming_message
+                    [timestamp] => 2025-05-27T18:05:06+03:00
+                    [time] => 1748358306
+                    [body] => Сообщение которое надо прочитать
+                    [type] => chat
+                    [from] => 79521716699@c.us
+                    [to] => 79181418783@c.us
+                    [senderName] => Алексей Коннов
+                    [senderLastName] => 
+                    [chatId] => 79521716699@c.us
+                    [caption] => 
+                    [from_where] => phone
+                    [contact_name] => Алексей Коннов
+                    [contact_phone] => 
+                    [contact_username] => 
+                    [is_forwarded] => 
+                    [isReply] => 
+                    [is_edited] => 
+                    [stanza_id] => 
+                    [is_me] => 
+                    [chat_type] => dialog
+                    [isGif] => 
+                    [thumbnail] => https://fs.wappi.pro/fs/downloadFile/ee64083d-37b7/avatars/tumb_79521716699.jpg
+                    [picture] => 
+                    [wappi_bot_id] => 
+                    [is_deleted] => 
+                    [is_bot] => 
+                )
+
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 18:05:06
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 18:08:11
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB011DDFA869205999087
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-27T18:08:11+03:00
+            [time] => 1748358491
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => pending
+            [task_id] => 86f72e6d-558d-4ed3-8164-368b27874db7
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 18:08:11
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 18:08:12
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB011DDFA869205999087
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-27T18:08:11+03:00
+            [time] => 1748358491
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => read
+            [task_id] => 86f72e6d-558d-4ed3-8164-368b27874db7
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 18:08:12
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 18:11:46
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB0B7F4ED8FF537FA14D4
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-27T18:11:46+03:00
+            [time] => 1748358706
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => pending
+            [task_id] => 77539a21-4488-4d2e-9780-4e70c7c61ea7
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 18:11:46
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 18:11:47
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB0B7F4ED8FF537FA14D4
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-27T18:11:46+03:00
+            [time] => 1748358706
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => read
+            [task_id] => 77539a21-4488-4d2e-9780-4e70c7c61ea7
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 18:11:47
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 18:12:17
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB057FD0F496F3B95F70B
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-27T18:12:17+03:00
+            [time] => 1748358737
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => pending
+            [task_id] => f0a59823-20b1-4a59-8e81-34ddf95ac77a
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 18:12:17
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 18:12:17
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB057FD0F496F3B95F70B
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-27T18:12:17+03:00
+            [time] => 1748358737
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => delivered
+            [task_id] => f0a59823-20b1-4a59-8e81-34ddf95ac77a
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 18:12:17
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 18:13:02
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB057FD0F496F3B95F70B
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-27T18:13:02+03:00
+            [time] => 1748358782
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => read
+            [task_id] => f0a59823-20b1-4a59-8e81-34ddf95ac77a
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 18:13:02
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 18:16:59
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB0CDA1152AF6D23DFF1F
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-27T18:16:58+03:00
+            [time] => 1748359018
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => pending
+            [task_id] => aa2dc945-412c-4aea-89cb-cf8fd615eabd
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 18:16:59
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 18:16:59
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB0CDA1152AF6D23DFF1F
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-27T18:16:58+03:00
+            [time] => 1748359018
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => delivered
+            [task_id] => aa2dc945-412c-4aea-89cb-cf8fd615eabd
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 18:16:59
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.27 18:17:22
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB0A38A5173D4F40BF2D0
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-27T18:17:22+03:00
+            [time] => 1748359042
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => pending
+            [task_id] => 94d842e5-0d01-4094-ae26-cc7ae2a41ff4
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.27 18:17:22
+incoming_TEST
+Array
+(
+)
+
+------------------------
+
+------------------------
+2025.05.28 10:45:39
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB070F689C599DF8D54AB
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-28T10:45:39+03:00
+            [time] => 1748418339
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => pending
+            [task_id] => 2919275f-aeb1-4799-a2a9-0a9be5e5b0d6
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.28 10:45:48
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB070F689C599DF8D54AB
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-28T10:45:46+03:00
+            [time] => 1748418346
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => delivered
+            [task_id] => 2919275f-aeb1-4799-a2a9-0a9be5e5b0d6
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.28 13:48:47
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB070F689C599DF8D54AB
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-28T13:48:47+03:00
+            [time] => 1748429327
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => read
+            [task_id] => 2919275f-aeb1-4799-a2a9-0a9be5e5b0d6
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.28 14:08:16
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1A25F8376CF8C86EDAB68F97EFFBB361
+                    [profile_id] => ee64083d-37b7
+                    [wh_type] => incoming_message
+                    [timestamp] => 2025-05-28T14:08:16+03:00
+                    [time] => 1748430496
+                    [body] => Тоже
+                    [type] => chat
+                    [from] => 79521716699@c.us
+                    [to] => 79181418783@c.us
+                    [senderName] => Алексей Коннов
+                    [senderLastName] => 
+                    [chatId] => 79521716699@c.us
+                    [caption] => 
+                    [from_where] => phone
+                    [contact_name] => Алексей Коннов
+                    [contact_phone] => 
+                    [contact_username] => 
+                    [is_forwarded] => 
+                    [isReply] => 1
+                    [is_edited] => 
+                    [stanza_id] => 097F2C2CE3ECB9B7C7C9A42D92676E90
+                    [is_me] => 
+                    [chat_type] => dialog
+                    [isGif] => 
+                    [thumbnail] => https://fs.wappi.pro/fs/downloadFile/ee64083d-37b7/avatars/tumb_79521716699.jpg
+                    [picture] => 
+                    [wappi_bot_id] => 
+                    [is_deleted] => 
+                    [is_bot] => 
+                    [reply_message] => Array
+                        (
+                            [id] => 097F2C2CE3ECB9B7C7C9A42D92676E90
+                            [body] => Сообщение которое надо прочитать
+                            [type] => chat
+                            [chatId] => 
+                            [timestamp] => 0
+                            [caption] => 
+                            [contact_name] => 
+                        )
+
+                )
+
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.28 14:08:32
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 9B3F8B25254CE309DFF5B6862EA6CDCA
+                    [profile_id] => ee64083d-37b7
+                    [wh_type] => incoming_message
+                    [timestamp] => 2025-05-28T14:08:32+03:00
+                    [time] => 1748430512
+                    [body] => Вот
+                    [type] => chat
+                    [from] => 79521716699@c.us
+                    [to] => 79181418783@c.us
+                    [senderName] => Алексей Коннов
+                    [senderLastName] => 
+                    [chatId] => 79521716699@c.us
+                    [caption] => 
+                    [from_where] => phone
+                    [contact_name] => Алексей Коннов
+                    [contact_phone] => 
+                    [contact_username] => 
+                    [is_forwarded] => 
+                    [isReply] => 1
+                    [is_edited] => 
+                    [stanza_id] => 3EB0B7F4ED8FF537FA14D4
+                    [is_me] => 
+                    [chat_type] => dialog
+                    [isGif] => 
+                    [thumbnail] => https://fs.wappi.pro/fs/downloadFile/ee64083d-37b7/avatars/tumb_79521716699.jpg
+                    [picture] => 
+                    [wappi_bot_id] => 
+                    [is_deleted] => 
+                    [is_bot] => 
+                    [reply_message] => Array
+                        (
+                            [id] => 3EB0B7F4ED8FF537FA14D4
+                            [body] => Сообщение для удаления
+                            [type] => chat
+                            [chatId] => 
+                            [timestamp] => 0
+                            [caption] => 
+                            [contact_name] => 
+                        )
+
+                )
+
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.28 17:10:34
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB0EFFC61CBDF6713B0C4
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-28T17:10:33+03:00
+            [time] => 1748441433
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => pending
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.28 22:32:34
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB0D4B47E5D641CA142EF
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-28T22:32:33+03:00
+            [time] => 1748460753
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => pending
+            [task_id] => 36eef2c1-4e9c-4045-8de1-2d219a1f7241
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.28 22:33:19
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB0EA91EDB718E3A4C1BD
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-28T22:33:19+03:00
+            [time] => 1748460799
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => pending
+            [task_id] => ec2b94bb-401d-489a-9550-794baa1b538f
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.28 22:34:56
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB0AAEE7ED7E1A10257BC
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-28T22:34:56+03:00
+            [time] => 1748460896
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => pending
+            [task_id] => 68577ada-55fe-40a6-a591-7fd33f54507d
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.28 22:37:55
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB004FC9B93461D099280
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-28T22:37:55+03:00
+            [time] => 1748461075
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => pending
+            [task_id] => 18a61b12-d6c3-4e56-b0b4-ae4cc10502a6
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.28 22:40:29
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB0984B4DBBD82047BC7B
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-28T22:40:28+03:00
+            [time] => 1748461228
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => pending
+            [task_id] => 68fac694-c85d-4382-b2db-ccacb6940d52
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.28 22:57:07
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB0AAEE7ED7E1A10257BC
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-28T22:57:06+03:00
+            [time] => 1748462226
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => delivered
+            [task_id] => 68577ada-55fe-40a6-a591-7fd33f54507d
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.28 22:57:07
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB0984B4DBBD82047BC7B
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-28T22:57:06+03:00
+            [time] => 1748462226
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => delivered
+            [task_id] => 68fac694-c85d-4382-b2db-ccacb6940d52
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.28 22:57:07
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB0D4B47E5D641CA142EF
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-28T22:57:06+03:00
+            [time] => 1748462226
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => delivered
+            [task_id] => 36eef2c1-4e9c-4045-8de1-2d219a1f7241
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.28 22:57:07
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB0EA91EDB718E3A4C1BD
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-28T22:57:06+03:00
+            [time] => 1748462226
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => delivered
+            [task_id] => ec2b94bb-401d-489a-9550-794baa1b538f
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.28 22:57:07
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB004FC9B93461D099280
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-28T22:57:06+03:00
+            [time] => 1748462226
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => delivered
+            [task_id] => 18a61b12-d6c3-4e56-b0b4-ae4cc10502a6
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.28 22:57:17
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB0AAEE7ED7E1A10257BC
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-28T22:57:17+03:00
+            [time] => 1748462237
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => read
+            [task_id] => 68577ada-55fe-40a6-a591-7fd33f54507d
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.28 22:57:17
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB0EA91EDB718E3A4C1BD
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-28T22:57:17+03:00
+            [time] => 1748462237
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => read
+            [task_id] => ec2b94bb-401d-489a-9550-794baa1b538f
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.28 22:57:17
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB004FC9B93461D099280
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-28T22:57:17+03:00
+            [time] => 1748462237
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => read
+            [task_id] => 18a61b12-d6c3-4e56-b0b4-ae4cc10502a6
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.28 22:57:17
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB0D4B47E5D641CA142EF
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-28T22:57:17+03:00
+            [time] => 1748462237
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => read
+            [task_id] => 36eef2c1-4e9c-4045-8de1-2d219a1f7241
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.28 22:57:17
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB0984B4DBBD82047BC7B
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-28T22:57:17+03:00
+            [time] => 1748462237
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => read
+            [task_id] => 68fac694-c85d-4382-b2db-ccacb6940d52
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.28 23:01:30
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB0881F63FD708684F632
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-28T23:01:30+03:00
+            [time] => 1748462490
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => pending
+            [task_id] => 3b8c3c8f-a466-4855-93d1-cc91752aa1b9
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.28 23:01:47
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB05EC605F8FF88081072
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-28T23:01:47+03:00
+            [time] => 1748462507
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => pending
+            [task_id] => 8e46796d-7260-4fc0-b468-12c0d4958a49
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.28 23:02:55
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB01D4CA5A6E0ED82A0F7
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-28T23:02:54+03:00
+            [time] => 1748462574
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => pending
+            [task_id] => f2c39937-3b8d-4162-a53a-ee8d853b362b
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.28 23:04:03
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [id] => 3EB0B92B93B053CDE21240
+            [profile_id] => ee64083d-37b7
+            [wh_type] => delivery_status
+            [timestamp] => 2025-05-28T23:04:03+03:00
+            [time] => 1748462643
+            [from] => 79181418783@c.us
+            [to] => 79521716699@c.us
+            [chat_id] => 79521716699@c.us
+            [status] => pending
+            [task_id] => ce915300-3f29-473c-91ad-233e7ce993a8
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.28 23:20:37
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 5A801C8B03C083F2C373A9FEFE866B4E
+                    [profile_id] => ee64083d-37b7
+                    [wh_type] => incoming_message
+                    [timestamp] => 2025-05-28T23:20:37+03:00
+                    [time] => 1748463637
+                    [body] => Тттест
+                    [type] => chat
+                    [from] => 79521716699@c.us
+                    [to] => 79181418783@c.us
+                    [senderName] => Алексей Коннов
+                    [senderLastName] => 
+                    [chatId] => 79521716699@c.us
+                    [caption] => 
+                    [from_where] => phone
+                    [contact_name] => Алексей Коннов
+                    [contact_phone] => 
+                    [contact_username] => 
+                    [is_forwarded] => 
+                    [isReply] => 
+                    [is_edited] => 
+                    [stanza_id] => 
+                    [is_me] => 
+                    [chat_type] => dialog
+                    [isGif] => 
+                    [thumbnail] => https://fs.wappi.pro/fs/downloadFile/ee64083d-37b7/avatars/tumb_79521716699.jpg
+                    [picture] => 
+                    [wappi_bot_id] => 
+                    [is_deleted] => 
+                    [is_bot] => 
+                    [is_blacklist] => 
+                )
+
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.29 9:27:16
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 75AA33CCFE56AF512A12578BC4FCEF64
+                    [profile_id] => ee64083d-37b7
+                    [wh_type] => incoming_message
+                    [timestamp] => 2025-05-29T09:27:16+03:00
+                    [time] => 1748500036
+                    [body] => Тестовое сообщение 123456
+                    [type] => chat
+                    [from] => 79521716699@c.us
+                    [to] => 79181418783@c.us
+                    [senderName] => Алексей Коннов
+                    [senderLastName] => 
+                    [chatId] => 79521716699@c.us
+                    [caption] => 
+                    [from_where] => phone
+                    [contact_name] => Алексей Коннов
+                    [contact_phone] => 
+                    [contact_username] => 
+                    [is_forwarded] => 
+                    [isReply] => 
+                    [is_edited] => 
+                    [stanza_id] => 
+                    [is_me] => 
+                    [chat_type] => dialog
+                    [isGif] => 
+                    [thumbnail] => https://fs.wappi.pro/fs/downloadFile/ee64083d-37b7/avatars/tumb_79521716699.jpg
+                    [picture] => 
+                    [wappi_bot_id] => 
+                    [is_deleted] => 
+                    [is_bot] => 
+                    [is_blacklist] => 
+                )
+
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.29 9:32:48
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 9AC24D6E708659781FA12C1B3A1C57EE
+                    [profile_id] => ee64083d-37b7
+                    [wh_type] => incoming_message
+                    [timestamp] => 2025-05-29T09:32:47+03:00
+                    [time] => 1748500367
+                    [body] => Второе тестовое 123456
+                    [type] => chat
+                    [from] => 79521716699@c.us
+                    [to] => 79181418783@c.us
+                    [senderName] => Алексей Коннов
+                    [senderLastName] => 
+                    [chatId] => 79521716699@c.us
+                    [caption] => 
+                    [from_where] => phone
+                    [contact_name] => Алексей Коннов
+                    [contact_phone] => 
+                    [contact_username] => 
+                    [is_forwarded] => 
+                    [isReply] => 
+                    [is_edited] => 
+                    [stanza_id] => 
+                    [is_me] => 
+                    [chat_type] => dialog
+                    [isGif] => 
+                    [thumbnail] => https://fs.wappi.pro/fs/downloadFile/ee64083d-37b7/avatars/tumb_79521716699.jpg
+                    [picture] => 
+                    [wappi_bot_id] => 
+                    [is_deleted] => 
+                    [is_bot] => 
+                    [is_blacklist] => 
+                )
+
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.29 9:38:43
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 95FC634C138BCFF60866AE5D6183B5B7
+                    [profile_id] => ee64083d-37b7
+                    [wh_type] => incoming_message
+                    [timestamp] => 2025-05-29T09:38:38+03:00
+                    [time] => 1748500718
+                    [body] => Третье сообщение 123456
+                    [type] => chat
+                    [from] => 79521716699@c.us
+                    [to] => 79181418783@c.us
+                    [senderName] => Алексей Коннов
+                    [senderLastName] => 
+                    [chatId] => 79521716699@c.us
+                    [caption] => 
+                    [from_where] => phone
+                    [contact_name] => Алексей Коннов
+                    [contact_phone] => 
+                    [contact_username] => 
+                    [is_forwarded] => 
+                    [isReply] => 
+                    [is_edited] => 
+                    [stanza_id] => 
+                    [is_me] => 
+                    [chat_type] => dialog
+                    [isGif] => 
+                    [thumbnail] => https://fs.wappi.pro/fs/downloadFile/ee64083d-37b7/avatars/tumb_79521716699.jpg
+                    [picture] => 
+                    [wappi_bot_id] => 
+                    [is_deleted] => 
+                    [is_bot] => 
+                    [is_blacklist] => 
+                )
+
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.05.29 9:43:09
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 97250A5B4A6B8991A90EEBED2952BD87
+                    [profile_id] => ee64083d-37b7
+                    [wh_type] => incoming_message
+                    [timestamp] => 2025-05-29T09:43:09+03:00
+                    [time] => 1748500989
+                    [body] => Четвертое сообщение 123456
+                    [type] => chat
+                    [from] => 79521716699@c.us
+                    [to] => 79181418783@c.us
+                    [senderName] => Алексей Коннов
+                    [senderLastName] => 
+                    [chatId] => 79521716699@c.us
+                    [caption] => 
+                    [from_where] => phone
+                    [contact_name] => Алексей Коннов
+                    [contact_phone] => 
+                    [contact_username] => 
+                    [is_forwarded] => 
+                    [isReply] => 
+                    [is_edited] => 
+                    [stanza_id] => 
+                    [is_me] => 
+                    [chat_type] => dialog
+                    [isGif] => 
+                    [thumbnail] => https://fs.wappi.pro/fs/downloadFile/ee64083d-37b7/avatars/tumb_79521716699.jpg
+                    [picture] => 
+                    [wappi_bot_id] => 
+                    [is_deleted] => 
+                    [is_bot] => 
+                    [is_blacklist] => 
+                )
+
+        )
+
+)
+
+------------------------

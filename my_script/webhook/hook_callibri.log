@@ -1,0 +1,41 @@
+
+------------------------
+2024.10.29 21:17:10
+incoming
+Array
+(
+    [channel_id] => 41794276c76fdcdad4e4eb911b5616ee
+    [crm_client_id] => 85bb6d1f8a81eab9ea665e54fb2e4665
+    [date] => 8f065294fa380caaab9b00b881c7d5de
+    [dst] => 40978e98e8136058de6cee36f67c6f59
+    [event_type] => d66144e4055c00905dc8d2b4b33ef03a
+    [metrika_client_id] => 27170debd0c641f5cb06733080ace233
+    [name_channel] => d1f0fc8fa4e0fec3f08ca2a88e546185
+    [phone] => 55390849a0c603fce05b12157a41d5b2
+    [region] => b16de3814ced3ba9d9b8a611a2ebbffb
+    [source] => 48b327ff943e84fae1348232611fa57a
+    [utm_campaign] => 49e1c601f1ef0d246f2b68241855f041
+    [utm_content] => 318947e8b55434dfa4ccbfca1f728875
+    [utm_medium] => 558065f367ed19a0834f47e69de9fcc6
+    [utm_source] => 353dd0f45c764828153d3778af400878
+    [utm_term] => 8f4b0e04e8cddad4c7ccc32a633aec8e
+)
+
+------------------------
+
+------------------------
+2024.10.29 21:40:24
+incoming
+Array
+(
+    [channel_id] => 125151
+    [crm_client_id] => 0
+    [date] => 2024-10-29T18:36:20.000Z
+    [dst] => 79010789250
+    [event_type] => call
+    [name_channel] => ЯДирект Авито
+    [phone] => 74954809630
+    [region] => г. Москва
+)
+
+------------------------

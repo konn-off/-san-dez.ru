@@ -1,0 +1,26 @@
+Array
+(
+    [update_id] => 498275308
+    [message] => Array
+        (
+            [message_id] => 147037
+            [from] => Array
+                (
+                    [id] => 1387315575
+                    [is_bot] => 
+                    [first_name] => АНАСТАСИЯ ДЕЗИНФЕКТОР
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1387315575
+                    [first_name] => АНАСТАСИЯ ДЕЗИНФЕКТОР
+                    [type] => private
+                )
+
+            [date] => 1773921499
+            [text] => 123456
+        )
+
+)

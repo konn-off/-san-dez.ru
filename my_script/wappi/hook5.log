@@ -1,0 +1,215 @@
+
+------------------------
+2025.06.11 20:10:47
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [wh_type] => incoming_call
+            [type] => incoming_call
+            [profile_id] => 6cce2eb5-9d11
+            [number] => 79521716699
+            [timestamp] => 2025-06-11T20:10:47+03:00
+            [time] => 1749661847
+            [contact] => Array
+                (
+                    [Found] => 1
+                    [FirstName] => 
+                    [FullName] => 
+                    [PushName] => Алексей Коннов
+                    [BusinessName] => 
+                )
+
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.06.11 20:10:56
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [wh_type] => incoming_call
+            [type] => missed_call
+            [profile_id] => 6cce2eb5-9d11
+            [number] => 79521716699
+            [timestamp] => 2025-06-11T20:10:47+03:00
+            [time] => 1749661847
+            [contact] => Array
+                (
+                    [Found] => 1
+                    [FirstName] => 
+                    [FullName] => 
+                    [PushName] => Алексей Коннов
+                    [BusinessName] => 
+                )
+
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.06.11 20:13:05
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1D0964C9DE044298F125837A5D07B714
+                    [profile_id] => 6cce2eb5-9d11
+                    [wh_type] => incoming_message
+                    [timestamp] => 2025-06-11T20:13:04+03:00
+                    [time] => 1749661984
+                    [body] => Здравствуйте! Отправьте это сообщение и я сразу пришлю цены на дезинсекцию тараканов и клопов. Код на скидку - 184504
+                    [type] => chat
+                    [from] => 79852798198@c.us
+                    [to] => 79271653614@c.us
+                    [senderName] => Виктор Иванович Буренков
+                    [senderLastName] => 
+                    [chatId] => 79852798198@c.us
+                    [caption] => 
+                    [from_where] => phone
+                    [contact_name] => Виктор Иванович Буренков
+                    [contact_phone] => 
+                    [contact_username] => 
+                    [is_forwarded] => 
+                    [isReply] => 
+                    [is_edited] => 
+                    [stanza_id] => 
+                    [is_me] => 
+                    [chat_type] => dialog
+                    [isGif] => 
+                    [thumbnail] => 
+                    [picture] => 
+                    [wappi_bot_id] => 
+                    [is_deleted] => 
+                    [is_bot] => 
+                    [is_blacklist] => 
+                )
+
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.06.11 20:13:35
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [wh_type] => incoming_call
+            [type] => incoming_call
+            [profile_id] => 6cce2eb5-9d11
+            [number] => 79521716699
+            [timestamp] => 2025-06-11T20:13:34+03:00
+            [time] => 1749662014
+            [contact] => Array
+                (
+                    [Found] => 1
+                    [FirstName] => 
+                    [FullName] => 
+                    [PushName] => Алексей Коннов
+                    [BusinessName] => 
+                )
+
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.06.11 20:13:41
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [wh_type] => incoming_call
+            [type] => missed_call
+            [profile_id] => 6cce2eb5-9d11
+            [number] => 79521716699
+            [timestamp] => 2025-06-11T20:13:34+03:00
+            [time] => 1749662014
+            [contact] => Array
+                (
+                    [Found] => 1
+                    [FirstName] => 
+                    [FullName] => 
+                    [PushName] => Алексей Коннов
+                    [BusinessName] => 
+                )
+
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.06.11 20:49:35
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [wh_type] => incoming_call
+            [type] => incoming_call
+            [profile_id] => 6cce2eb5-9d11
+            [number] => 79521716699
+            [timestamp] => 2025-06-11T20:49:35+03:00
+            [time] => 1749664175
+            [contact] => Array
+                (
+                    [Found] => 1
+                    [FirstName] => 
+                    [FullName] => 
+                    [PushName] => Алексей Коннов
+                    [BusinessName] => 
+                )
+
+        )
+
+)
+
+------------------------
+
+------------------------
+2025.06.11 20:49:47
+incoming_raw
+Array
+(
+    [messages] => Array
+        (
+            [wh_type] => incoming_call
+            [type] => missed_call
+            [profile_id] => 6cce2eb5-9d11
+            [number] => 79521716699
+            [timestamp] => 2025-06-11T20:49:35+03:00
+            [time] => 1749664175
+            [contact] => Array
+                (
+                    [Found] => 1
+                    [FirstName] => 
+                    [FullName] => 
+                    [PushName] => Алексей Коннов
+                    [BusinessName] => 
+                )
+
+        )
+
+)
+
+------------------------

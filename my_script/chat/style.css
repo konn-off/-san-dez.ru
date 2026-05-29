@@ -1,0 +1,20 @@
+.chats {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.chat_mes {
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    border: solid 1px #ededed;
+    margin: 10px;
+    padding: 10px;
+}
+
+.chat_mes img {
+    width: 35px;
+}

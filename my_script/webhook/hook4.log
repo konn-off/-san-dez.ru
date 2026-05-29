@@ -1,0 +1,1291 @@
+
+------------------------
+2024.10.22 16:01:19
+incoming
+Array
+(
+    [phone] => 79194567890
+    [timestamp] => 1729602079
+    [website] => dmp.one
+    [page] => https://dmp.one/
+    [page_with_parameters] => https://dmp.one/?yclid=3725717487900465674
+    [yid] => yeUUfxApgXckWntCxYGj
+    [email] => Array
+        (
+            [0] => test@test.test
+        )
+
+    [utm_source] => yandex_ibr
+    [utm_medium] => cpc
+    [utm_campaign] => utm_кампания|22964259
+    [utm_term] => utm_терм
+    [utm_content] => k50id|0100000011125291681_|cid|22964259|gid|2957028098|aid|4832745869|adp|no|pos|premium1|src|search_none|dvc|desktop|main
+    [referer] => https://yandex.ru/
+    [ip] => 127.0.0.1
+    [stock_key] => 1a79a4d60de6718e8e5b326e338ae533
+    [visit__id] => 123123
+)
+
+------------------------
+
+------------------------
+2024.10.22 18:42:02
+incoming
+Array
+(
+    [phone] => 79647719000
+    [timestamp] => 1729611388
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845193&utm_term=%D0%A2%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2%20%D0%B2%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D0%B5%20%D1%86%D0%B5%D0%BD%D1%8B%20%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C&roistat=direct1_search_16273476770_%D0%A2%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2%20%D0%B2%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D0%B5%20%D1%86%D0%B5%D0%BD%D1%8B%20%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C&roistat_referrer=none&roistat_pos=other_4&yclid=3390331477458419711
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Травля клопов в квартире цены московская область
+    [utm_content] => 5463845193
+    [referer] => yandex.ru
+    [ip] => 31.210.170.206
+    [visit__id] => 394646978
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.23 4:41:06
+incoming
+Array
+(
+    [phone] => 79067697211
+    [timestamp] => 1729625229
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845193&utm_term=%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B8%D0%BC%20%D1%82%D1%83%D0%BC%D0%B0%D0%BD%D0%BE%D0%BC%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat=direct1_search_16273476770_%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B8%D0%BC%20%D1%82%D1%83%D0%BC%D0%B0%D0%BD%D0%BE%D0%BC%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat_referrer=m.uslugi.yandex.ru&roistat_pos=premium_1&yclid=7730442701669400575
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Обработка горячим туманом от клопов
+    [utm_content] => 5463845193
+    [referer] => uslugi.yandex.ru
+    [ip] => 85.249.168.43(Ростовская область)
+    [visit__id] => 394668828
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.23 8:29:21
+incoming
+Array
+(
+    [phone] => 79057642386
+    [timestamp] => 1729639123
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845193&utm_term=%D0%A2%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2%20%D1%86%D0%B5%D0%BD%D0%B0%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&roistat=direct1_search_16273476769_%D0%A2%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2%20%D1%86%D0%B5%D0%BD%D0%B0%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&roistat_referrer=none&roistat_pos=premium_1&yclid=7254842727518437375
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Травля клопов цена Москва
+    [utm_content] => 5463845193
+    [referer] => yandex.ru
+    [ip] => 89.113.154.253
+    [visit__id] => 394679598
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.23 19:38:33
+incoming
+Array
+(
+    [phone] => 79037304374
+    [timestamp] => 1729688253
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845195&utm_term=%D0%A1%D0%BB%D1%83%D0%B6%D0%B1%D0%B0%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat=direct1_search_16273476774_%D0%A1%D0%BB%D1%83%D0%B6%D0%B1%D0%B0%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat_referrer=none&roistat_pos=premium_1&yclid=16295355452468756479
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Служба от клопов
+    [utm_content] => 5463845195
+    [referer] => yandex.ru
+    [ip] => 89.113.144.210
+    [visit__id] => 394841112
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.23 19:39:23
+incoming
+Array
+(
+    [phone] => 79157345572
+    [timestamp] => 1729688855
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => 
+    [utm_medium] => 
+    [utm_campaign] => 
+    [utm_term] => 
+    [utm_content] => 
+    [referer] => 
+    [ip] => 94.140.142.148(Свердловская область)
+    [visit__id] => 394842516
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.24 2:51:02
+incoming
+Array
+(
+    [phone] => 79511094221
+    [timestamp] => 1729638564
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845193&utm_term=%D0%A1%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE%20%D1%81%D1%82%D0%BE%D0%B8%D1%82%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%8B%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat=direct1_search_16273476769_%D0%A1%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE%20%D1%81%D1%82%D0%BE%D0%B8%D1%82%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%8B%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat_referrer=none&roistat_pos=premium_1&yclid=15775832435846807551
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Сколько стоит обработка квартиры от клопов
+    [utm_content] => 5463845193
+    [referer] => yandex.ru
+    [ip] => 176.59.56.243(Москва)
+    [visit__id] => 394679345
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.24 6:38:02
+incoming
+Array
+(
+    [phone] => 79777803759
+    [timestamp] => 1729641381
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845192&utm_term=%D0%94%D0%B5%D0%B7%D0%B8%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat=direct1_search_16273476765_%D0%94%D0%B5%D0%B7%D0%B8%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat_referrer=yandex.ru&roistat_pos=premium_2&etext=2202.r2aBcsagtg5fEPkxRpOOeTSvhpcd7m1CJDusgEJAPpxQjyDOOSxcHaqreSjaZrK_ZHdtZmNjbHZleGJra3hnbw.555c430af841322bf462c5a6a8079e08296b7efb&yclid=43369765897764863
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Дезинфекция от клопов
+    [utm_content] => 5463845192
+    [referer] => 
+    [ip] => 176.59.172.181
+    [visit__id] => 394680496
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.24 8:18:39
+incoming
+Array
+(
+    [phone] => 79895852304
+    [timestamp] => 1729746652
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845195&utm_term=%D0%92%D1%8B%D0%B7%D0%B2%D0%B0%D1%82%D1%8C%20%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D1%83%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat=direct1_search_16273476775_%D0%92%D1%8B%D0%B7%D0%B2%D0%B0%D1%82%D1%8C%20%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D1%83%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat_referrer=none&roistat_pos=premium_3&yclid=2271693828642308095
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Вызвать службу от клопов
+    [utm_content] => 5463845195
+    [referer] => yandex.ru
+    [ip] => 213.87.138.214(Москва)
+    [visit__id] => 394935816
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.24 10:17:06
+incoming
+Array
+(
+    [phone] => 79878587208
+    [timestamp] => 1729746297
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845195&utm_term=%D0%A1%D0%BB%D1%83%D0%B6%D0%B1%D1%8B%20%D0%BF%D0%BE%20%D0%B2%D1%8B%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8E%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat=direct1_search_16273476775_%D0%A1%D0%BB%D1%83%D0%B6%D0%B1%D1%8B%20%D0%BF%D0%BE%20%D0%B2%D1%8B%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8E%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat_referrer=none&roistat_pos=premium_2&etext=2202.pz9Nj0tXD_3ugMoP2-8x1zSVdDWRNnficQfD1WNePgQG9dSAqNmoe2lMc-esQjjRG8Xe4AZfDGolzF8SkwiyHokJQUbYMVTJYCHMy1gH1AtzYXRxdHhidmhmcm5mZmFu.8c6fcbd458d060142cb1fc47422ee0e5e27a0674&yclid=1735814972472295423
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Службы по выведению клопов
+    [utm_content] => 5463845195
+    [referer] => yandex.ru
+    [ip] => 91.148.108.19
+    [visit__id] => 394930049
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.24 10:17:14
+incoming
+Array
+(
+    [phone] => 79309718141
+    [timestamp] => 1729745536
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845195&utm_term=%D0%A1%D0%BB%D1%83%D0%B6%D0%B1%D1%8B%20%D0%BF%D0%BE%20%D0%B2%D1%8B%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8E%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat=direct1_search_16273476775_%D0%A1%D0%BB%D1%83%D0%B6%D0%B1%D1%8B%20%D0%BF%D0%BE%20%D0%B2%D1%8B%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8E%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat_referrer=none&roistat_pos=premium_2&etext=2202.pz9Nj0tXD_3ugMoP2-8x1zSVdDWRNnficQfD1WNePgQG9dSAqNmoe2lMc-esQjjRG8Xe4AZfDGolzF8SkwiyHokJQUbYMVTJYCHMy1gH1AtzYXRxdHhidmhmcm5mZmFu.8c6fcbd458d060142cb1fc47422ee0e5e27a0674&yclid=1735814972472295423
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Службы по выведению клопов
+    [utm_content] => 5463845195
+    [referer] => yandex.ru
+    [ip] => 91.148.108.19
+    [visit__id] => 394926586
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.24 10:27:07
+incoming
+Array
+(
+    [phone] => 79169651406
+    [timestamp] => 1729725489
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845193&utm_term=%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C&roistat=direct1_search_16273476770_%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C&roistat_referrer=none&roistat_pos=premium_1&yclid=604339880141783039
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Обработка от клопов стоимость
+    [utm_content] => 5463845193
+    [referer] => yandex.ru
+    [ip] => 83.220.239.25(Москва)
+    [visit__id] => 394881027
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.24 10:27:19
+incoming
+Array
+(
+    [phone] => 79850258250
+    [timestamp] => 1729732364
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845193&utm_term=%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%8B%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2%20%D1%86%D0%B5%D0%BD%D0%B0&roistat=direct1_search_16273476770_%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%8B%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2%20%D1%86%D0%B5%D0%BD%D0%B0&roistat_referrer=none&roistat_pos=premium_3&etext=2202.j6CAlCz2Brib1bHDtIBf6ePXrOHyhxHYG86bQkYcoP9LskwHmDtIIHccbSh2_cI_1k17YhryPKCLD9M4T5AOBlHxa-Eks_PDZicvIPrAqSBx9YHsBHAT9gFsjbDBykStcnNobGdkemFmdnNkaHVrcQ.beebce65fc6bd930fdbb51b565e89324c6662880&yclid=5154928427816976383
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Обработка квартиры от клопов цена
+    [utm_content] => 5463845193
+    [referer] => yandex.ru
+    [ip] => 176.106.152.31(Московская область)
+    [visit__id] => 394883485
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.24 12:43:02
+incoming
+Array
+(
+    [phone] => 79043683190
+    [timestamp] => 1729663223
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845193&utm_term=%D0%A1%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE%20%D1%81%D1%82%D0%BE%D0%B8%D1%82%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat=direct1_search_16273476770_%D0%A1%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE%20%D1%81%D1%82%D0%BE%D0%B8%D1%82%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat_referrer=none&roistat_pos=premium_2&yclid=18229365585194516479
+    [yid] => 
+    [email] => Array
+        (
+            [0] => 9043683190@mail.ru
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Сколько стоит обработка от клопов
+    [utm_content] => 5463845193
+    [referer] => yandex.ru
+    [ip] => 176.59.164.201
+    [visit__id] => 394754708
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.24 14:33:02
+incoming
+Array
+(
+    [phone] => 79534384872
+    [timestamp] => 1729669778
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845193&utm_term=%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C&roistat=direct1_search_16273476770_%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C&roistat_referrer=none&roistat_pos=premium_2&yclid=1415598605728743423
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Обработка от клопов стоимость
+    [utm_content] => 5463845193
+    [referer] => yandex.ru
+    [ip] => 176.59.160.26
+    [visit__id] => 394797568
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.24 14:39:03
+incoming
+Array
+(
+    [phone] => 79688767513
+    [timestamp] => 1729747699
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845192&utm_term=%D0%94%D0%B5%D0%B7%D0%B8%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2%20%D0%B2%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5&roistat=direct1_search_16273476766_%D0%94%D0%B5%D0%B7%D0%B8%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2%20%D0%B2%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5&roistat_referrer=none&roistat_pos=other_4&yclid=8872344427711954943
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Дезинфекция от клопов в Москве
+    [utm_content] => 5463845192
+    [referer] => yandex.ru
+    [ip] => 89.113.152.139
+    [visit__id] => 394945042
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.24 14:47:05
+incoming
+Array
+(
+    [phone] => 79092292930
+    [timestamp] => 1729760844
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845192&utm_term=%D0%94%D0%B5%D0%B7%D0%B8%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2%20%D0%B2%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D0%B5&roistat=direct1_search_16288401308_%D0%94%D0%B5%D0%B7%D0%B8%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2%20%D0%B2%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D0%B5&roistat_referrer=none&roistat_pos=premium_1&etext=2202.51jSo2bYgUPV5caPA0u_JVfzn2geW0SrHeZeqXPkoGrYGAeWO9eUiMOb-NW5c_gnS_8goiheOKMyzg6lTQMz3Gh7Esb8AmUdiTZPrqRAS95A363J6jwWjRk0E2iQfOPdyZ6y615dZmgDnOZblAQbBnF6bWh1ZmR2Z3Jrc2x3cXo.b439abfe2ba68196473f5f83c2d2893de3a76e07&yclid=2410127961593479167
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Дезинфекция клопов в квартире
+    [utm_content] => 5463845192
+    [referer] => yandex.ru
+    [ip] => 85.235.185.18(Москва)
+    [visit__id] => 395003671
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.24 14:48:03
+incoming
+Array
+(
+    [phone] => 79111581488
+    [timestamp] => 1729761293
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845193&utm_term=%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BE%D1%82%20%D1%82%D0%B0%D1%80%D0%B0%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%B8%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2%20%D0%B2%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5&roistat=direct1_search_16273476768_%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BE%D1%82%20%D1%82%D0%B0%D1%80%D0%B0%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%B8%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2%20%D0%B2%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5&roistat_referrer=none&roistat_pos=premium_3&yclid=13476949182222696447
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Обработка от тараканов и клопов в Москве
+    [utm_content] => 5463845193
+    [referer] => yandex.ru
+    [ip] => 212.75.209.13(Кемеровская область)
+    [visit__id] => 395004942
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.24 19:37:24
+incoming
+Array
+(
+    [phone] => 79289417901
+    [timestamp] => 1729754133
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845193&utm_term=%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%BD%D0%B0%D1%8F%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2%20%D1%86%D0%B5%D0%BD%D0%B0&roistat=direct1_search_16273476770_%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%BD%D0%B0%D1%8F%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2%20%D1%86%D0%B5%D0%BD%D0%B0&roistat_referrer=none&roistat_pos=other_1&yclid=16855276287003459583
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Комплексная обработка от клопов цена
+    [utm_content] => 5463845193
+    [referer] => yandex.ru
+    [ip] => 2a00:1fa0:102:2662:17ff:c989:f205:f464
+    [visit__id] => 394988280
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.25 0:43:02
+incoming
+Array
+(
+    [phone] => 79534294356
+    [timestamp] => 1729706432
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845193&utm_term=%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2%20%D1%82%D1%83%D0%BC%D0%B0%D0%BD%D0%BE%D0%BC&roistat=direct1_search_16273476770_%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2%20%D1%82%D1%83%D0%BC%D0%B0%D0%BD%D0%BE%D0%BC&roistat_referrer=none&roistat_pos=premium_3&yclid=5115993752238030847
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Обработка от клопов туманом
+    [utm_content] => 5463845193
+    [referer] => yandex.ru
+    [ip] => 176.59.42.23(Москва)
+    [visit__id] => 394867989
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.25 8:57:03
+incoming
+Array
+(
+    [phone] => 79106305061
+    [timestamp] => 1729826462
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845195&utm_term=%D0%92%D1%8B%D0%B7%D0%B2%D0%B0%D1%82%D1%8C%20%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D1%83%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat=direct1_search_16273476774_%D0%92%D1%8B%D0%B7%D0%B2%D0%B0%D1%82%D1%8C%20%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D1%83%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat_referrer=none&roistat_pos=premium_2&yclid=11986576856727158783
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Вызвать службу от клопов
+    [utm_content] => 5463845195
+    [referer] => yandex.ru
+    [ip] => 213.87.157.110(Москва)
+    [visit__id] => 395095161
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.25 9:37:04
+incoming
+Array
+(
+    [phone] => 79680552235
+    [timestamp] => 1729811511
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845195&utm_term=%D0%A1%D0%B0%D0%BD%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat=direct1_search_16273476774_%D0%A1%D0%B0%D0%BD%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat_referrer=none&roistat_pos=premium_3&yclid=6175418957360529407
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Сан обработка помещения от клопов
+    [utm_content] => 5463845195
+    [referer] => yandex.ru
+    [ip] => 213.87.137.123(Москва)
+    [visit__id] => 395074553
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.25 11:46:04
+incoming
+Array
+(
+    [phone] => 79611188233
+    [timestamp] => 1729785639
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845195&utm_term=%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat=direct1_search_16273476774_%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat_referrer=none&roistat_pos=premium_1&yclid=6424536202571677695
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Компания от клопов
+    [utm_content] => 5463845195
+    [referer] => yandex.ru
+    [ip] => 2a03:d000:1a0:738:4df6:273b:e3bc:343d
+    [visit__id] => 395052145
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.25 12:26:20
+incoming
+Array
+(
+    [phone] => 79096703536
+    [timestamp] => 1729840711
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845192&utm_term=%D0%A1%D0%BB%D1%83%D0%B6%D0%B1%D0%B0%20%D0%BF%D0%BE%20%D0%B4%D0%B5%D0%B7%D0%B8%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat=direct1_search_16288401308_%D0%A1%D0%BB%D1%83%D0%B6%D0%B1%D0%B0%20%D0%BF%D0%BE%20%D0%B4%D0%B5%D0%B7%D0%B8%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat_referrer=yandex.ru&roistat_pos=premium_1&etext=2202.V8fTmZ_loeR9PeeHkxHsgXg3pfSNPFOs3PSQU7JVNp0BVbX15_28DTJyNxm1IRuxhgtm2fx8e_Yn-JFfmnXmbG5mcnhzdmx6amZ6emJpbnI.b8238616a129d922324c452c355690f9930ae608&yclid=16471404573813374975
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Служба по дезинфекции от клопов
+    [utm_content] => 5463845192
+    [referer] => yandex.ru
+    [ip] => 168.235.205.32
+    [visit__id] => 395180424
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.25 14:16:06
+incoming
+Array
+(
+    [phone] => 79062666668
+    [timestamp] => 1729839435
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845195&utm_term=%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat=direct1_search_16273476775_%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat_referrer=yandex.ru&roistat_pos=other_1&etext=2202.c3w9seOefi84Lk4iQSvWO7ACCw8oJWUuxyU_6uf0goBRoxdZx5ZV9BDOQ2F2lZ7QdHF1dWlhbnp5dHh4aHNkZQ.cbf38cb18dc1e733077c067dac834733ce838941&yclid=14029767915811110911
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Компания от клопов
+    [utm_content] => 5463845195
+    [referer] => yandex.ru
+    [ip] => 2a03:d000:1a0:738:4df6:273b:e3bc:343d
+    [visit__id] => 395177693
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.25 15:57:08
+incoming
+Array
+(
+    [phone] => 79817995124
+    [timestamp] => 1729849575
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845193&utm_term=%D0%9F%D0%BE%D1%82%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2%20%D0%B2%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D0%B5%20%D1%86%D0%B5%D0%BD%D0%B0%20%D0%B2%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5&roistat=direct1_search_16273476770_%D0%9F%D0%BE%D1%82%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2%20%D0%B2%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D0%B5%20%D1%86%D0%B5%D0%BD%D0%B0%20%D0%B2%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5&roistat_referrer=none&roistat_pos=premium_4&yclid=8271375175860879359
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Потравить клопов в квартире цена в Москве
+    [utm_content] => 5463845193
+    [referer] => yandex.ru
+    [ip] => 45.134.181.90
+    [visit__id] => 395202442
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.25 16:11:03
+incoming
+Array
+(
+    [phone] => 79165154150
+    [timestamp] => 1729860342
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845193&utm_term=%D0%9A%D0%BB%D0%BE%D0%BF%D1%8B%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%8B%20%D1%82%D1%83%D0%BC%D0%B0%D0%BD%D0%BE%D0%BC&roistat=direct1_search_16273476770_%D0%9A%D0%BB%D0%BE%D0%BF%D1%8B%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%8B%20%D1%82%D1%83%D0%BC%D0%B0%D0%BD%D0%BE%D0%BC&roistat_referrer=none&roistat_pos=other_4&yclid=15906581546098229247
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Клопы обработка квартиры туманом
+    [utm_content] => 5463845193
+    [referer] => yandex.ru
+    [ip] => 2a00:1fa0:888:ad69:0:50:df86:f801(Москва)
+    [visit__id] => 395227680
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.25 16:56:08
+incoming
+Array
+(
+    [phone] => 79612461157
+    [timestamp] => 1729864204
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => 
+    [utm_medium] => 
+    [utm_campaign] => 
+    [utm_term] => 
+    [utm_content] => 
+    [referer] => 
+    [ip] => 2a03:d000:4220:4ba6:79a0:b79b:4e2e:b5a
+    [visit__id] => 395235711
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.25 19:37:52
+incoming
+Array
+(
+    [phone] => 79884761934
+    [timestamp] => 1729860342
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845193&utm_term=%D0%9A%D0%BB%D0%BE%D0%BF%D1%8B%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%8B%20%D1%82%D1%83%D0%BC%D0%B0%D0%BD%D0%BE%D0%BC&roistat=direct1_search_16273476770_%D0%9A%D0%BB%D0%BE%D0%BF%D1%8B%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%8B%20%D1%82%D1%83%D0%BC%D0%B0%D0%BD%D0%BE%D0%BC&roistat_referrer=none&roistat_pos=other_4&yclid=15906581546098229247
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Клопы обработка квартиры туманом
+    [utm_content] => 5463845193
+    [referer] => yandex.ru
+    [ip] => 2a00:1fa0:888:ad69:0:50:df86:f801(Москва)
+    [visit__id] => 395227683
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.25 19:38:07
+incoming
+Array
+(
+    [phone] => 79211313896
+    [timestamp] => 1729873812
+    [website] => sandez
+    [page] => san-dez.ru
+    [page_with_parameters] => san-dez.ru
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => 
+    [utm_medium] => 
+    [utm_campaign] => 
+    [utm_term] => 
+    [utm_content] => 
+    [referer] => 
+    [ip] => 2a03:d000:42a7:f53a:1:0:9e6d:bab3
+    [visit__id] => 395248840
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.25 19:38:12
+incoming
+Array
+(
+    [phone] => 79110161251
+    [timestamp] => 1729857167
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845193&utm_term=%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&roistat=direct1_search_16273476770_%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&roistat_referrer=none&roistat_pos=other_4&etext=2202.l7mNM2myqxgAqtZwEHMZ4nv-bMB7AF7X-iJ4t0m3ZsVLKliTlK7PWkS38zNpc4FMuQvvQBWd5BlyQ4w-P2IZ8vcvjbVTHKHYRSzv261oyXx1dmdtYWtncnNmeHdhaWZ5.ad0596bc94a4c6ad9a883a76f1de6da85bd7be85&yclid=15719783424919076863
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Обработка от клопов Москва
+    [utm_content] => 5463845193
+    [referer] => yandex.ru
+    [ip] => 185.174.129.147(Москва)
+    [visit__id] => 395221221
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.26 1:10:02
+incoming
+Array
+(
+    [phone] => 79169686722
+    [timestamp] => 1729893812
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845193&utm_term=%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2%20%D0%B8%20%D1%82%D0%B0%D1%80%D0%B0%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2&roistat=direct1_search_16273476768_%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2%20%D0%B8%20%D1%82%D0%B0%D1%80%D0%B0%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2&roistat_referrer=none&roistat_pos=other_4&etext=2202.BNr7c7J-hiQ1_Qxm21gGXzYXyIvfJR7sda_O_vZEV0_UO5Ldl5R3GiY3Na41MqLBpsSIAMgpv4axzKYordrKabNVDXFwOODw2aVoJ8xew-VOZIspw0dYkGjjnEIknigEaXBpdGl3cXhjc3d3emt2cQ.8b5e267a173e9ebdc520c484418ef9195730403a&yclid=17017203078605570047
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Обработка от клопов и тараканов
+    [utm_content] => 5463845193
+    [referer] => yandex.ru
+    [ip] => 213.87.152.53(Москва)
+    [visit__id] => 395266922
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.26 8:46:18
+incoming
+Array
+(
+    [phone] => 79102632655
+    [timestamp] => 1729909758
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845195&utm_term=%D0%A1%D0%BB%D1%83%D0%B6%D0%B1%D0%B0%20%D0%BF%D0%BE%20%D1%83%D0%BD%D0%B8%D1%87%D1%82%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8E%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat=direct1_search_16273476776_%D0%A1%D0%BB%D1%83%D0%B6%D0%B1%D0%B0%20%D0%BF%D0%BE%20%D1%83%D0%BD%D0%B8%D1%87%D1%82%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8E%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat_referrer=none&roistat_pos=premium_2&yclid=14725020073847685119
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Служба по уничтожению клопов
+    [utm_content] => 5463845195
+    [referer] => yandex.ru
+    [ip] => 213.87.129.253(Москва)
+    [visit__id] => 395287037
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.26 8:47:40
+incoming
+Array
+(
+    [phone] => 79031646299
+    [timestamp] => 1729898523
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845193&utm_term=%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C&roistat=direct1_search_16273476770_%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C&roistat_referrer=none&roistat_pos=premium_1&yclid=10660054459505967103
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Обработка от клопов стоимость
+    [utm_content] => 5463845193
+    [referer] => yandex.ru
+    [ip] => 176.59.57.5(Москва)
+    [visit__id] => 395269341
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.26 8:52:23
+incoming
+Array
+(
+    [phone] => 79169932181
+    [timestamp] => 1729920412
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845193&utm_term=%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2%20%D1%85%D0%BE%D0%BB%D0%BE%D0%B4%D0%BD%D1%8B%D0%BC%20%D1%82%D1%83%D0%BC%D0%B0%D0%BD%D0%BE%D0%BC&roistat=direct1_search_16273476770_%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2%20%D1%85%D0%BE%D0%BB%D0%BE%D0%B4%D0%BD%D1%8B%D0%BC%20%D1%82%D1%83%D0%BC%D0%B0%D0%BD%D0%BE%D0%BC&roistat_referrer=none&roistat_pos=premium_3&yclid=462211395295641599
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Обработка клопов холодным туманом
+    [utm_content] => 5463845193
+    [referer] => yandex.ru
+    [ip] => 2a00:1fa0:8aa:c54c:730c:5787:7e5e:6824(Москва)
+    [visit__id] => 395331499
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.26 10:31:02
+incoming
+Array
+(
+    [phone] => 79109827486
+    [timestamp] => 1729926343
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845195&utm_term=%D0%A1%D0%BB%D1%83%D0%B6%D0%B1%D0%B0%20%D0%BF%D0%BE%20%D1%83%D0%BD%D0%B8%D1%87%D1%82%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8E%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat=direct1_search_16273476775_%D0%A1%D0%BB%D1%83%D0%B6%D0%B1%D0%B0%20%D0%BF%D0%BE%20%D1%83%D0%BD%D0%B8%D1%87%D1%82%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8E%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat_referrer=none&roistat_pos=premium_1&yclid=10798789748551843839
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Служба по уничтожению клопов
+    [utm_content] => 5463845195
+    [referer] => yandex.ru
+    [ip] => 2a00:1fa0:44b1:5397:0:36:8ff2:1(Москва)
+    [visit__id] => 395368721
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.26 11:36:04
+incoming
+Array
+(
+    [phone] => 79652035281
+    [timestamp] => 1729922230
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845195&utm_term=%D0%A1%D0%B0%D0%BD%D1%8D%D0%BF%D0%B8%D0%B4%D0%B5%D0%BC%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20%D1%83%D0%BD%D0%B8%D1%87%D1%82%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat=direct1_search_16273476774_%D0%A1%D0%B0%D0%BD%D1%8D%D0%BF%D0%B8%D0%B4%D0%B5%D0%BC%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20%D1%83%D0%BD%D0%B8%D1%87%D1%82%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat_referrer=none&roistat_pos=premium_1&yclid=98314374048907263
+    [yid] => 
+    [email] => Array
+        (
+            [0] => a.seropegin@yandex.ru
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Санэпидемстанция уничтожение клопов
+    [utm_content] => 5463845195
+    [referer] => yandex.ru
+    [ip] => 2a03:d000:4196:197d:30f2:c8ff:fe10:31b6
+    [visit__id] => 395349390
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.26 12:27:02
+incoming
+Array
+(
+    [phone] => 79211276310
+    [timestamp] => 1729920403
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845193&utm_term=%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2%20%D1%85%D0%BE%D0%BB%D0%BE%D0%B4%D0%BD%D1%8B%D0%BC%20%D1%82%D1%83%D0%BC%D0%B0%D0%BD%D0%BE%D0%BC&roistat=direct1_search_16273476770_%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2%20%D1%85%D0%BE%D0%BB%D0%BE%D0%B4%D0%BD%D1%8B%D0%BC%20%D1%82%D1%83%D0%BC%D0%B0%D0%BD%D0%BE%D0%BC&roistat_referrer=none&roistat_pos=premium_3&yclid=462211395295641599
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Обработка клопов холодным туманом
+    [utm_content] => 5463845193
+    [referer] => yandex.ru
+    [ip] => 2a00:1fa0:8aa:c54c:730c:5787:7e5e:6824(Москва)
+    [visit__id] => 395331482
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.26 14:17:04
+incoming
+Array
+(
+    [phone] => 79602582456
+    [timestamp] => 1729930137
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845192&utm_term=%D0%94%D0%B5%D0%B7%D0%B8%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat=direct1_search_16288401308_%D0%94%D0%B5%D0%B7%D0%B8%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat_referrer=none&roistat_pos=other_4&yclid=8266751112617656319
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Дезинфекция от клопов
+    [utm_content] => 5463845192
+    [referer] => yandex.ru
+    [ip] => 176.59.54.207(Москва)
+    [visit__id] => 395378184
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.26 15:56:02
+incoming
+Array
+(
+    [phone] => 79101178430
+    [timestamp] => 1729935925
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845192&utm_term=%D0%A1%D0%BB%D1%83%D0%B6%D0%B1%D0%B0%20%D0%BF%D0%BE%20%D0%B4%D0%B5%D0%B7%D0%B8%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat=direct1_search_16288401308_%D0%A1%D0%BB%D1%83%D0%B6%D0%B1%D0%B0%20%D0%BF%D0%BE%20%D0%B4%D0%B5%D0%B7%D0%B8%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat_referrer=none&roistat_pos=premium_2&yclid=7556037410320285695
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Служба по дезинфекции от клопов
+    [utm_content] => 5463845192
+    [referer] => yandex.ru
+    [ip] => 176.59.164.146
+    [visit__id] => 395391785
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.26 16:57:02
+incoming
+Array
+(
+    [phone] => 79660598497
+    [timestamp] => 1729917795
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845192&utm_term=%D0%94%D0%B5%D0%B7%D0%B8%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat=direct1_search_16273476765_%D0%94%D0%B5%D0%B7%D0%B8%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat_referrer=none&roistat_pos=premium_1&etext=2202.IJ9EsVhUTqt9wgf63VBFqrfQFTLLlNFjI2K_8td48Tsy1bPLE0O6DzZSGX_mdLtIDCphen8jjkHFt1i8vMJRGXpwY2JvZW9ob3d4cWJkZ2U.f128c0aa6ddde8d7b3cad0f57f25c5586ce4210c&yclid=15475334637894500351
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Дезинфекция от клопов
+    [utm_content] => 5463845192
+    [referer] => yandex.ru
+    [ip] => 176.103.96.4(Москва)
+    [visit__id] => 395309173
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.27 6:22:02
+incoming
+Array
+(
+    [phone] => 79672282659
+    [timestamp] => 1729977100
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845193&utm_term=%D0%A1%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE%20%D1%81%D1%82%D0%BE%D0%B8%D1%82%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%8B%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat=direct1_search_16273476769_%D0%A1%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE%20%D1%81%D1%82%D0%BE%D0%B8%D1%82%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%8B%20%D0%BE%D1%82%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat_referrer=yandex.ru&roistat_pos=premium_1&etext=2202.B6u4EqhAW_t9gsl4OXe4Gs1U-V3zaa4VEoQplJuZFAplUuTtBGhKQrtHO6nC8kkA7uYJOF4HRf1dz5ntnojr1bkt6z7OQw3wnV1eVv1Llowdt184ye25YlO8MVXWQ-8sHOjMC4H_xSSevD7zllziEHZJuy38xtlJ0RpH731Jxeqo3VmDoLs1AOT8xiwb1Dv-ydcGFRqE0mI20XQR3THF53YY6BO8Zs9BSx8Qv0ghRMZudHB0a3JuYnZrd2N1anFw.9cfe0f6b15aa1e6bbb5d0b3b0ed9224f750e3fcd&yclid=13997045022522081279
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Сколько стоит обработка квартиры от клопов
+    [utm_content] => 5463845193
+    [referer] => 
+    [ip] => 91.193.178.215(Москва)
+    [visit__id] => 395453609
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.27 12:26:38
+incoming
+Array
+(
+    [phone] => 79878354680
+    [timestamp] => 1730008381
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845197&utm_term=%D0%A1%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE%20%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D1%8C%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat=direct1_search_16273476782_%D0%A1%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE%20%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D1%8C%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat_referrer=none&roistat_pos=premium_1&yclid=16447945507839672319
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Сколько выводить клопов
+    [utm_content] => 5463845197
+    [referer] => yandex.ru
+    [ip] => 94.253.114.215(Московская область)
+    [visit__id] => 395510728
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.27 13:26:20
+incoming
+Array
+(
+    [phone] => 79056295362
+    [timestamp] => 1730007315
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/?utm_source=yandex_search&utm_medium=cpc&utm_campaign=Poisk_MSK_Klopy_ot17_06_2024&utm_content=5463845197&utm_term=%D0%A1%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE%20%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D1%8C%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat=direct1_search_16273476782_%D0%A1%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE%20%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D1%8C%20%D0%BA%D0%BB%D0%BE%D0%BF%D0%BE%D0%B2&roistat_referrer=none&roistat_pos=premium_1&yclid=16447945507839672319
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => yandex_search
+    [utm_medium] => cpc
+    [utm_campaign] => Poisk_MSK_Klopy_ot17_06_2024
+    [utm_term] => Сколько выводить клопов
+    [utm_content] => 5463845197
+    [referer] => yandex.ru
+    [ip] => 94.253.114.215(Московская область)
+    [visit__id] => 395509278
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.27 19:37:57
+incoming
+Array
+(
+    [phone] => 79046455602
+    [timestamp] => 1730046613
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => 
+    [utm_medium] => 
+    [utm_campaign] => 
+    [utm_term] => 
+    [utm_content] => 
+    [referer] => 
+    [ip] => 45.11.95.123
+    [visit__id] => 395603409
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
+
+------------------------
+2024.10.27 19:38:15
+incoming
+Array
+(
+    [phone] => 79855385954
+    [timestamp] => 1730046613
+    [website] => sandez
+    [page] => https://san-dez.ru/unichtozhenie-klopov/
+    [page_with_parameters] => https://san-dez.ru/unichtozhenie-klopov/
+    [yid] => 
+    [email] => Array
+        (
+        )
+
+    [utm_source] => 
+    [utm_medium] => 
+    [utm_campaign] => 
+    [utm_term] => 
+    [utm_content] => 
+    [referer] => 
+    [ip] => 45.11.95.123
+    [visit__id] => 395603408
+    [stock_key] => 96eac0137cd91e8c8d0d3f3488e17210
+)
+
+------------------------
