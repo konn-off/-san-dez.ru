@@ -411,11 +411,11 @@ $site = '';
     
     if($site=='san-dez.ru' || $site==''){
         $metriks_id_schetchik = 97574764;
-        $token = "y0_AgAAAAB2YcxHAAz9CQAAAAEc8EgpAAAeTMYl9JZAh5sHnEl8n_Hpf8_gFg"; // san-dez
+        $tokenYa = "y0_AgAAAAB2YcxHAAz9CQAAAAEc8EgpAAAeTMYl9JZAh5sHnEl8n_Hpf8_gFg"; // san-dez
     }
     if($site=='xn-----8kcaaiejjavmb1acem4amnaho2a2c1b6c2p.xn--p1ai' || $site=='xn-----8kcaaiejjavmb1acem4amnaho2a2c1b6c2p.xn--p1a' || $site == 'дезинфекция-клопов-тараканов.рф' || $site == 'https://дезинфекция-клопов-тараканов.рф'){
         $metriks_id_schetchik = 98748423;
-        $token = "y0__xDautmVCBjSoDgghILquhMGIA76MivvUFRINzIychmJEuSkqw"; // дезинфекция-клопов-тараканов.рф
+        $tokenYa = "y0__xDautmVCBjSoDgghILquhMGIA76MivvUFRINzIychmJEuSkqw"; // дезинфекция-клопов-тараканов.рф
     }
 
 
@@ -551,7 +551,7 @@ $site = '';
             
             //if($povtor_lead==0){
 
-                $yaInfo = getInfoYa($url,$token,$data,$boundary);
+                $yaInfo = getInfoYa($url,$tokenYa,$data,$boundary);
                 $yaInfo = json_decode($yaInfo["response"]["html"],true);
                 //send_notification2 ("Конверсия в Метрику: " .json_decode($yaInfo["response"]["html"],true));
                 sent_Loop("Конверсия в Метрику Max: " .$yaInfo,0);
