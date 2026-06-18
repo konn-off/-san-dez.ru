@@ -54,6 +54,46 @@ function phone_format($phone)
 
 
 
+/*** Отправляем увеомление в Месcенджер Loop ***/
+function sent_Loop($mess,$for){
+    if($for==0){$url = 'https://san-dez.loop.ru/hooks/crjxgcihnjr6xqcp3xhhpighih';} // В канал для меня
+    if($for==1){$url = 'https://san-dez.loop.ru/hooks/hq8ahfi817rbzk4u4taea4fjey';} // В канал для всех
+    // Инициализация cURL сессии
+    $ch = curl_init();
+    
+    // Настройка параметров запроса
+    curl_setopt_array($ch, [
+        CURLOPT_URL => $url,
+        CURLOPT_RETURNTRANSFER => true,
+        CURLOPT_POST => true,
+        CURLOPT_POSTFIELDS => json_encode([
+            'text' => $mess
+        ]),
+        CURLOPT_HTTPHEADER => [
+            'Content-Type: application/json'
+        ],
+        CURLOPT_SSL_VERIFYPEER => false // Отключить проверку SSL (можно убрать для продакшена)
+    ]);
+    // Выполнение запроса
+    $response = curl_exec($ch);
+    // Проверка на ошибки
+    if(curl_errno($ch)) {
+        echo 'cURL error: ' . curl_error($ch);
+    } 
+    else {
+        // Получение HTTP статуса
+        $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+        // Вывод ответа
+        /*echo "HTTP статус: $httpCode\n";
+        echo "Ответ сервера:\n";
+        var_dump($response);*/
+    }
+    // Закрытие сессии
+    curl_close($ch);
+}
+
+
+
 
 $name = '';
 $mail = '';
@@ -95,6 +135,9 @@ $message = '
         roistat - '.$roistat.'
         order_id - '.$id_crm;
         
+        sent_Loop($message,0);
+        
+        /*
         $token = "6843410151:AAERG49__xZQiew2XDkkr-WqO87Oo5-FCWc"; //наш токен от telegram bot -а
         $chatid = "608866610";// ИД чата telegrm
         $chatid2 = "271142636";// ИД чата telegrm клиент
@@ -102,11 +145,11 @@ $message = '
         $chatid4 = "883627670";// ИД чата telegrm клиент3
         
         
-    $tbot = file_get_contents("https://api.telegram.org/bot".$token."/sendMessage?chat_id=".$chatid."&text=".urlencode($message));
-    $tbot = file_get_contents("https://api.telegram.org/bot".$token."/sendMessage?chat_id=".$chatid2."&text=".urlencode($message));
-    $tbot = file_get_contents("https://api.telegram.org/bot".$token."/sendMessage?chat_id=".$chatid3."&text=".urlencode($message));
-    $tbot = file_get_contents("https://api.telegram.org/bot".$token."/sendMessage?chat_id=".$chatid4."&text=".urlencode($message));
-
+        $tbot = file_get_contents("https://api.telegram.org/bot".$token."/sendMessage?chat_id=".$chatid."&text=".urlencode($message));
+        $tbot = file_get_contents("https://api.telegram.org/bot".$token."/sendMessage?chat_id=".$chatid2."&text=".urlencode($message));
+        $tbot = file_get_contents("https://api.telegram.org/bot".$token."/sendMessage?chat_id=".$chatid3."&text=".urlencode($message));
+        $tbot = file_get_contents("https://api.telegram.org/bot".$token."/sendMessage?chat_id=".$chatid4."&text=".urlencode($message));
+        */
 
 
 if(isset($phone) && $phone!=''){

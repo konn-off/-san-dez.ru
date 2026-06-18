@@ -272,5 +272,7 @@ if(isset($_REQUEST['send_notification'])){
     $chatid = "608866610";// ИД чата telegrm
     $tbot = file_get_contents("https://api.telegram.org/bot".$token."/sendMessage?chat_id=".$chatid."&text=".urlencode($message));
 }
-    
+
+
+// test
 ?>

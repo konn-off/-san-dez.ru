@@ -29,9 +29,7 @@ function getInfoYa($url,$token,$data,$boundary){
     
     curl_setopt($ch, CURLOPT_POST, true);
     curl_setopt($ch, CURLOPT_POSTFIELDS, $data);
-    
     curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'POST');	
-    
     curl_setopt($ch, CURLOPT_HTTPHEADER, array('Host:api-metrika.yandex.net','Authorization: OAuth '.$token,"Content-Type: multipart/form-data; boundary=------------------------$boundary","Content-Length: " . strlen($data)));
   
     $response = array();
@@ -39,11 +37,8 @@ function getInfoYa($url,$token,$data,$boundary){
     $response['err']      = curl_errno($ch);
     $response['errmsg']   = curl_error($ch);
     $response['header']   = curl_getinfo($ch);
-    
-    
-    
+
     curl_close($ch);		
-    
     
     return $response;		
 }
@@ -369,57 +364,62 @@ $site = '';
     }
 
     
-    $utm_source = '';$utm_medium = '';$utm_campaign = '';$utm_content = '';$utm_term = '';$yclid = '';$referrer_url = '';$url = '';
+    $utm_source = '';$utm_medium = '';$utm_campaign = '';$utm_content = '';$utm_term = '';$yclid = '';$referrer_url = '';$url = '';$povtor_lead_nedavno=0;$povtor_lead=0;
     $date = time();
     
-    $povtor_lead=0;
-    $sql2 = "SELECT * FROM all_leads WHERE chat_id_max = $chat_id_max";
+    
+    $sql2 = "SELECT * FROM all_leads WHERE chat_id_max = $chat_id_max ORDER BY id DESC LIMIT 1";
     if($conn->query($sql2)){
         $result = $conn->query($sql2); 
         if($result->num_rows != 0){
             $povtor_lead=1;
+            $row = $result->fetch_array();
+            $id_crm = $row['id_crm'];
+            
+            $roistat = $row['roistat'];
+            $utm_source = $row['utm_source'];
+            $utm_medium = $row['utm_medium'];
+            $utm_campaign = $row['utm_campaign'];
+            $utm_content = $row['utm_content'];
+            $utm_term = $row['utm_term' ];
+            $site = $row['site'];
+            $url = $row['url'];
+            $referrer_url = $row['referrer_url'];
+            $yclid = $row['ycid'];
+            $datePast = strtotime('today midnight');
+            if($row['date']>$datePast){ $povtor_lead_nedavno=1; }else{ $povtor_lead_nedavno=0; }
         }else{
             $povtor_lead=0;
-        }
-    }
-    
-    
-    if($povtor_lead == 0){
-        $dateff = $date-180;
-        $sql2 = "SELECT * FROM click_max WHERE id_lead = '' && datetime > $dateff";
-        if($conn->query($sql2)){
-            $result = $conn->query($sql2); 
-            if($result->num_rows != 0){ 
+            $dateff = $date-180;
+            $sql2 = "SELECT * FROM click_max WHERE id_lead = '' && datetime > $dateff";
+            if($conn->query($sql2)){
+                $result = $conn->query($sql2); 
+                if($result->num_rows != 0){ 
                 
-                $row = $result->fetch_array();
-                //$datetime = $row['datetime']+300;
-                //if($datetime > $date){
-                $id_click_max = $row['id'];
-                    $utm_source = $row['utm_source'];
-                    $utm_medium = $row['utm_medium'];
-                    $utm_campaign = $row['utm_campaign'];
-                    $utm_content = $row['utm_content'];
-                    $utm_term = $row['utm_term' ];
-                    $site = $row['site'];
-                    $url = $row['url'];
-                    $referrer_url = $row['referrer_url'];
-                    $yclid = $row['yclid'];
-                //}
+                    $row = $result->fetch_array();
+                    //$datetime = $row['datetime']+300;
+                    //if($datetime > $date){
+                    $id_click_max = $row['id'];
+                        $utm_source = $row['utm_source'];
+                        $utm_medium = $row['utm_medium'];
+                        $utm_campaign = $row['utm_campaign'];
+                        $utm_content = $row['utm_content'];
+                        $utm_term = $row['utm_term' ];
+                        $site = $row['site'];
+                        $url = $row['url'];
+                        $referrer_url = $row['referrer_url'];
+                        $yclid = $row['yclid'];
+                    //}
+                }
             }
         }
     }
     
-    if($site=='san-dez.ru' || $site==''){
-        $metriks_id_schetchik = 97574764;
-        $tokenYa = "y0_AgAAAAB2YcxHAAz9CQAAAAEc8EgpAAAeTMYl9JZAh5sHnEl8n_Hpf8_gFg"; // san-dez
-    }
-    if($site=='xn-----8kcaaiejjavmb1acem4amnaho2a2c1b6c2p.xn--p1ai' || $site=='xn-----8kcaaiejjavmb1acem4amnaho2a2c1b6c2p.xn--p1a' || $site == 'дезинфекция-клопов-тараканов.рф' || $site == 'https://дезинфекция-клопов-тараканов.рф'){
-        $metriks_id_schetchik = 98748423;
-        $tokenYa = "y0__xDautmVCBjSoDgghILquhMGIA76MivvUFRINzIychmJEuSkqw"; // дезинфекция-клопов-тараканов.рф
-    }
+    
+    
 
 
-
+    /*
     //$datePast = $date-7200;// 2часа
     $datePast = strtotime('today midnight');
     //$sql3 = "SELECT * FROM all_leads WHERE phone = $phone && date > $datePast";
@@ -458,7 +458,7 @@ $site = '';
         }
         
     }
-    
+    */
         
             
         
@@ -526,36 +526,86 @@ $site = '';
         
         if($yclid != ''){
             
-        
-            //$token = "y0__xDautmVCBjSoDgghILquhMGIA76MivvUFRINzIychmJEuSkqw"; // дезинфекция-клопов-тараканов.рф
-            //$token = "y0_AgAAAAB2YcxHAAz9CQAAAAEc8EgpAAAeTMYl9JZAh5sHnEl8n_Hpf8_gFg"; // san-dez
-            $orders = "ClientID,Target,DateTime".PHP_EOL;		
-            
-            
-            //ym(97574764,'reachGoal','test_lead')
-            $orders .= $yclid.",lead,".time().PHP_EOL;
-            //$orders .= $yclid.",lead2,".time().PHP_EOL;
-                
-            
-            $counterId = $metriks_id_schetchik; //97574764; //id счетчика
-            $boundary = "7zDUQOAIAE9hEWoV";
-            $filename = 'data.csv';
-            
-            $data = "--------------------------$boundary\x0D\x0A";
-            $data .= "Content-Disposition: form-data; name=\"file\"; filename=\"$filename\"\x0D\x0A";
-            $data .= "Content-Type: text/csv\x0D\x0A\x0D\x0A";
-            $data .= $orders . "\x0A\x0D\x0A";
-            $data .= "--------------------------$boundary--";
-            
-            $url = "https://api-metrika.yandex.net/management/v1/counter/".$counterId."/offline_conversions/upload?client_id_type=CLIENT_ID&oauth_token=".$token;
-            
-            //if($povtor_lead==0){
-
-                $yaInfo = getInfoYa($url,$tokenYa,$data,$boundary);
-                $yaInfo = json_decode($yaInfo["response"]["html"],true);
-                //send_notification2 ("Конверсия в Метрику: " .json_decode($yaInfo["response"]["html"],true));
-                sent_Loop("Конверсия в Метрику Max: " .$yaInfo,0);
-            //}
+                if($site == ''){
+                    $metriks_id_schetchik = '97574764'; //san-dez
+                    $token = "y0_AgAAAAB2YcxHAAz9CQAAAAEc8EgpAAAeTMYl9JZAh5sHnEl8n_Hpf8_gFg";
+                    
+                    $orders = "ClientID,Target,DateTime".PHP_EOL;		
+                    $orders .= $yclid.",lead,".time().PHP_EOL;
+                    $counterId = $metriks_id_schetchik;
+                    $boundary = "7zDUQOAIAE9hEWoV";
+                    $filename = 'data.csv';
+                    $data = "--------------------------$boundary\x0D\x0A";
+                    $data .= "Content-Disposition: form-data; name=\"file\"; filename=\"$filename\"\x0D\x0A";
+                    $data .= "Content-Type: text/csv\x0D\x0A\x0D\x0A";
+                    $data .= $orders . "\x0A\x0D\x0A";
+                    $data .= "--------------------------$boundary--";
+                    $url = "https://api-metrika.yandex.net/management/v1/counter/".$counterId."/offline_conversions/upload?client_id_type=CLIENT_ID&oauth_token=".$token;
+                    
+                    $yaInfo = getInfoYa($url,$token,$data,$boundary);
+                    $yaInfo = json_decode($yaInfo["response"]["html"],true);
+                    sent_Loop("Конверсия в Метрику: " .$yaInfo,0);
+                    
+                    $metriks_id_schetchik = '98748423'; //дезинфекция.рф
+                    $token = "y0__xDautmVCBjSoDgghILquhMGIA76MivvUFRINzIychmJEuSkqw";
+                    
+                    $orders = "ClientID,Target,DateTime".PHP_EOL;		
+                    $orders .= $yclid.",lead,".time().PHP_EOL;
+                    $counterId = $metriks_id_schetchik;
+                    $boundary = "7zDUQOAIAE9hEWoV";
+                    $filename = 'data.csv';
+                    $data = "--------------------------$boundary\x0D\x0A";
+                    $data .= "Content-Disposition: form-data; name=\"file\"; filename=\"$filename\"\x0D\x0A";
+                    $data .= "Content-Type: text/csv\x0D\x0A\x0D\x0A";
+                    $data .= $orders . "\x0A\x0D\x0A";
+                    $data .= "--------------------------$boundary--";
+                    $url = "https://api-metrika.yandex.net/management/v1/counter/".$counterId."/offline_conversions/upload?client_id_type=CLIENT_ID&oauth_token=".$token;
+                    
+                    $yaInfo = getInfoYa($url,$token,$data,$boundary);
+                    $yaInfo = json_decode($yaInfo["response"]["html"],true);
+                    sent_Loop("Конверсия в Метрику: " .$yaInfo,0);
+                }
+                if($site == 'san-dez.ru'){
+                    $metriks_id_schetchik = '97574764';
+                    $token = "y0_AgAAAAB2YcxHAAz9CQAAAAEc8EgpAAAeTMYl9JZAh5sHnEl8n_Hpf8_gFg";
+                    
+                    $orders = "ClientID,Target,DateTime".PHP_EOL;		
+                    $orders .= $yclid.",lead,".time().PHP_EOL;
+                    $counterId = $metriks_id_schetchik;
+                    $boundary = "7zDUQOAIAE9hEWoV";
+                    $filename = 'data.csv';
+                    $data = "--------------------------$boundary\x0D\x0A";
+                    $data .= "Content-Disposition: form-data; name=\"file\"; filename=\"$filename\"\x0D\x0A";
+                    $data .= "Content-Type: text/csv\x0D\x0A\x0D\x0A";
+                    $data .= $orders . "\x0A\x0D\x0A";
+                    $data .= "--------------------------$boundary--";
+                    $url = "https://api-metrika.yandex.net/management/v1/counter/".$counterId."/offline_conversions/upload?client_id_type=CLIENT_ID&oauth_token=".$token;
+                    
+                    $yaInfo = getInfoYa($url,$token,$data,$boundary);
+                    $yaInfo = json_decode($yaInfo["response"]["html"],true);
+                    sent_Loop("Конверсия в Метрику: " .$yaInfo,0);
+                }
+                if($site != 'san-dez.ru' && $site != ''){
+                    $metriks_id_schetchik = '98748423';
+                    $token = "y0__xDautmVCBjSoDgghILquhMGIA76MivvUFRINzIychmJEuSkqw";
+                    
+                    $orders = "ClientID,Target,DateTime".PHP_EOL;		
+                    $orders .= $yclid.",lead,".time().PHP_EOL;
+                    $counterId = $metriks_id_schetchik;
+                    $boundary = "7zDUQOAIAE9hEWoV";
+                    $filename = 'data.csv';
+                    $data = "--------------------------$boundary\x0D\x0A";
+                    $data .= "Content-Disposition: form-data; name=\"file\"; filename=\"$filename\"\x0D\x0A";
+                    $data .= "Content-Type: text/csv\x0D\x0A\x0D\x0A";
+                    $data .= $orders . "\x0A\x0D\x0A";
+                    $data .= "--------------------------$boundary--";
+                    $url = "https://api-metrika.yandex.net/management/v1/counter/".$counterId."/offline_conversions/upload?client_id_type=CLIENT_ID&oauth_token=".$token;
+                    
+                    $yaInfo = getInfoYa($url,$token,$data,$boundary);
+                    $yaInfo = json_decode($yaInfo["response"]["html"],true);
+                    sent_Loop("Конверсия в Метрику: " .$yaInfo,0);
+                    
+                }
         }
     
         
